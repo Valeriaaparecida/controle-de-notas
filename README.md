@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação full stack para gestão acadêmica simples, permitindo o cadastro de alunos, controle de notas, cálculo de médias e análise de frequência.
 
-O sistema foi desenvolvido como parte de um desafio técnico DTI, com foco em **boas práticas**, **organização de código**, **validações** e **experiência do usuário**.
+O sistema foi desenvolvido como parte de um desafio técnico, com foco em **boas práticas**, **organização de código**, **validações** e **experiência do usuário**.
 
 ---
 
